@@ -1,0 +1,48 @@
+body {
+    margin: 10px;
+    font-style: normal;
+}
+
+H1, span {
+    color: #f35521;
+}
+
+.new {
+    background-color: #4a42f5;
+    color: #fff;
+    padding: 2px;
+    font-size: small;
+    width: 100px;
+    height: 65px;
+}
+
+.huge {
+    padding-top: 60px;
+}
+
+H2 {
+    background-color: #52a209;
+    color: #fff;
+}
+
+.list>li {
+    border: solid black;
+    font-size: x-large;
+    font-weight: 50;
+}
+
+.indent {
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-bottom: 40px;
+}
+
+.centre {
+    padding-top: 3px;
+    padding-left: 60px;
+    padding-bottom: 3px;
+}
+
+img {
+    width: 100px;
+}
